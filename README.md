@@ -1,4 +1,4 @@
-# kelvinWeather
+# Kelvin Weather
 Kelvin Weather is the first project from Codecademy's Learn JavaScript Course.
 
 Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction.
